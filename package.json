@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "describe paquete",
+  "main": "index.js",
+  "scripts": {
+    "test": "s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenRosas49/NodeJS.git"
+  },
+  "keywords": [
+    "3"
+  ],
+  "author": "karen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarenRosas49/NodeJS/issues"
+  },
+  "homepage": "https://github.com/KarenRosas49/NodeJS#readme"
+}
