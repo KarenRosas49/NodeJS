@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Index</title>
+    <style>
+        *{
+            font-family: Times New Roman;
+        }
+        .titulo{
+            text-align: center;
+            color: rgb(46, 46, 46);
+        }
+
+        .caja label{
+            padding: 50px;
+        }
+        .caja{
+        background-image: url(https://w.wallhaven.cc/full/zy/wallhaven-zyxvqy.jpg);
+         width: 850px;
+         height: 750px;
+        margin: auto;
+        }
+        .caja div{
+            padding: 10px;
+        }
+        .field{
+            border: solid 1px;
+        }
+        .boton{
+            border-radius: 3px;
+            text-decoration: none;
+        }
+        form{
+            margin: 0 auto;
+            width: 300px;
+        }
+
+    </style>
+</head>
+
+<body style="background-color: rgb(139,205,198);">
+    <h1 class="titulo">Formulario</h1>
+    <div class="caja">
+        <form method="post" action="datos" class="formulario"><br>
+            <p>Nombre: </p><input type="text" class="field" name="nombre"><br>
+            <p>Apellidos: </p><input type="text" class="field" name="apellidos"><br>
+            <p>Direccion: </p><input type="text" class="field" name="direccion"><br>
+            <p>Telefono: </p><input type="text" class="field" name="telefono"><br>
+           <br><input class="boton" type="submit" value="OK"><br>      
+        </form>
+    </div>
+</body>
+</html>
