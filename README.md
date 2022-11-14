@@ -1,2 +1,2 @@
 # NodeJS
-En este repositorio se encuentran los trabajos hecho en Java Script
+En este repositorio encontrarás diferentes ejercicios en html y JavaScript. 
